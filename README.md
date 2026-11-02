@@ -1,40 +1,27 @@
 ## Chris Ryan
 
-Design engineering leader. I build the systems, tooling, and practices where design, code, and AI meet.
+Design engineering leader. I build and lead design systems that people and AI can both use.
 
-Currently leading design systems, design engineering, and design operations at a healthcare
-technology company, where we're re-architecting a Vue design system to be readable by agents as
-well as people.
+Today, I lead design systems, design engineering, and design operations at a healthcare technology company. I led the rebuild and launch of its Vue design system to work for both people and AI. Component adoption in new work grew from 20% to 70% in ten months.
 
-Before that, a decade at Capital One building its first framework-independent design system:
-Figma components and production Web Components in one-to-one parity, serving 700+ designers and
-developers across 40+ products.
+Before that, I spent ten years at Capital One growing and leading product design teams, then pitched and built its first framework-independent design system. It paired Figma libraries with production Web Components and supported more than 40 products across 20+ platforms.
 
 ### What I'm working on
 
-**Design systems that models can read.** Most design systems are written for humans and merely
-tolerated by LLMs. I'm interested in what changes when machine-consumability is a first-class
-requirement — structured tokens, machine-readable documentation, patterns an agent can apply
-without guessing.
+**Design systems for people and AI.** Components, structured tokens, and documentation that help teams and their AI tools work from the same foundation. I'm interested in making the system easier to understand, use, and contribute to.
 
-**Agent infrastructure for real work.** Behavioral contracts, continuity scaffolding, and MCP
-servers — the unglamorous plumbing that makes AI-assisted work survive past a single session.
+**Tools that carry AI work forward.** Agent responsibilities, custom skills, MCP servers, and shared project context. I build tools that help the next session pick up where the last one left off.
 
-**Native iOS.** [Tap Thing's first app: Tesserae!](https://apps.apple.com/us/app/tesserae/id6746950169) — designing and shipping in Swift and SwiftUI. Owning the
-whole loop because the details I care most about are the ones that only survive when the person who
-obsessed over them is also the one who built them.
+**Native Apple apps.** Through Tap Things, my independent app studio, I design and build in Swift and SwiftUI. [Tap Thing's first app: Tesserae!](https://apps.apple.com/us/app/tesserae/id6746950169) is on the App Store. I also build TapKit, a reusable design system for consistent experiences across Apple platforms.
 
-### Selected Work
+### Selected work
 
-- **[ProjectKit](https://github.com/allthingschris/ProjectKit)** — a continuity scaffold for
-  AI-assisted projects. A behavioral contract plus an "At a Glance" layer that keeps a project's
-  state portable across sessions, with skills to apply, update, and wrap up.
-- Others available upon request.
+**[ProjectKit](https://github.com/allthingschris/ProjectKit)** helps keep AI-assisted projects consistent across sessions. It combines a working agreement, an "At a Glance" layer for project state, and skills to set up, update, and wrap up the work.
 
 ### Elsewhere
 
-[allthingschris.com](https://www.allthingschris.com) · [LinkedIn](https://www.linkedin.com/in/allthingschris)
+[allthingschris.com](https://www.allthingschris.com/) · [LinkedIn](https://www.linkedin.com/in/allthingschris)
 
----
+Twenty years of design, and I still reach for a Sharpie first.
 
-*Twenty years of design, and I still reach for a Sharpie first.*
+*Sparked by curiosity. Driven by collaboration. Fueled by design (and Mountain Dew).*
